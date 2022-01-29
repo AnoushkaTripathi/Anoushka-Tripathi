@@ -1,2 +1,1 @@
-# Anoushka-Tripathi
-Portfolio
+# Portfolio
